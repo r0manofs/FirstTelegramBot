@@ -1,0 +1,4 @@
+ru/tgBot/DemoBot/config/BotInitializer.class
+ru/tgBot/DemoBot/DemoBotApplication.class
+ru/tgBot/DemoBot/config/BotConfig.class
+ru/tgBot/DemoBot/service/TelegramBot.class
